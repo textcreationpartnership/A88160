@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the tenants of the Mannor of Epworth in the isle of Axholm in the County of Lincoln. Truly stated in brief by Lieu. Col. John Lilburn, and others of the free-holders there, on purpose to inform every man in the justice and equity of their case. And to prevent the many mis-informations of M. John Gibbons, and the drainers, and their participants.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88160</idno>
+            <idno type="STC">Wing L2086</idno>
+            <idno type="STC">Thomason E644_8</idno>
+            <idno type="STC">ESTC R206050</idno>
+            <idno type="EEBO-CITATION">99865242</idno>
+            <idno type="PROQUEST">99865242</idno>
+            <idno type="VID">165976</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88160)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165976)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E644[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the tenants of the Mannor of Epworth in the isle of Axholm in the County of Lincoln. Truly stated in brief by Lieu. Col. John Lilburn, and others of the free-holders there, on purpose to inform every man in the justice and equity of their case. And to prevent the many mis-informations of M. John Gibbons, and the drainers, and their participants.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nou. 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drainage --  Great Britain --  Early works to 1800.</term>
+               <term>Land tenure --  England --  Early works to 1800.</term>
+               <term>Epworth (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb n="1" facs="tcp:165976:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 47 -->
+            <head>THE CASE OF THE TENANTS OF THE MANNOR of <hi>EPWORTH</hi> In the Iſle of <hi>AXHOLM</hi> in the County of <hi>LINCOLN.</hi>
+            </head>
+            <head type="sub">Truly ſtated in brief by Lieu. Col. <hi>John Lilburn,</hi> and others of the Free-holders there, on purpoſe to inform every man in the juſtice and equity of their Caſe. And to prevent the many miſ-informations of M. <hi>John Gibbons,</hi> and the Drainers, and their Participants.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the year 1626, the Tenants of the Mannor of <hi>Epworth</hi> were ſeized of a right of Common of Paſture appen<g ref="char:EOLhyphen"/>dant to their Free-holds, and of Turbury in all the waſt grounds belonging to that Mannor, which had deſcended to them as their Inheritance, with their Free-holds, the ſame having been enjoyed ſucceſſively by the Tenants of the ſaid Man<g ref="char:EOLhyphen"/>nor for above three hundred years, by vertue of a Grant from one <hi>John de Mowbray,</hi> Lord of that Mannor, in the Reign of <hi>Edward</hi> the third; and it is moſt undoubted in the law, that the Lord of a Man<g ref="char:EOLhyphen"/>nor cannot improve any Commons or Waſts, where the Tenants en<g ref="char:EOLhyphen"/>joy Common appendant to their Free-holds by Grant.</p>
+            <p>Yet the late King about the ſaid year 1626. preten<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing to improve the Waſtes of the ſaid Mannor, by colour of the Stature of <hi>Merton,</hi> a<g ref="char:EOLhyphen"/>greed with Sir <hi>Cornelius Vermuden</hi> to undertake the w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k of Draining the Waſts of the ſaid Mannor; and it was conditioned that he ſhould begin the work within three moneths after the late Kings Commiſſio<g ref="char:EOLhyphen"/>ners
+<pb n="2" facs="tcp:165976:2"/>
+               <!-- PDF PAGE 48 -->had agreed with the Tenants and Commoners of the ſaid Man<g ref="char:EOLhyphen"/>nor for their right; whereby, it was conſeſſed by the late King, that he could not improve the ſaid grounds untill the Commoners had con<g ref="char:EOLhyphen"/>ſented.</p>
+            <p>The late Kings Commiſſioners treated with the Tenants of the ſaid Mannor, and demanded 7400 Acres of their Commons, but the Te<g ref="char:EOLhyphen"/>nants would not conſent to draining on thoſe tearms, being unwilling to part with their ancient, Inheritance, thoſe Commonable grounds be<g ref="char:EOLhyphen"/>ing extraordinary good for Milch Kine, and feeding fat Cattel, and breeding young Cattel, though not for Corn, and the greateſt part of thoſe grounds being much the better for graſs, for the over-flowings of water, in the Winter, and worth more to remain for graſs, then to be plowed for corn.</p>
+            <p>But Sir <hi>Cornelius Vermuden,</hi> and the Participants, having purchaſed of the late King, the Mannor of <hi>Hatfield,</hi> and endeavoured the draining the Level of <hi>Hatfield</hi> Chaſe, and the Waſts of 14 Mannors ad acent to the Mannor of <hi>Epworth,</hi> and (as they confeſs in their late Petition to the Councel of State) <hi>having ſpent</hi> 100000 <abbr>l.</abbr> 
+               <hi>in draining thoſe Mannors, which they ſay muſt all have been loſt, if Sir</hi> Cor<g ref="char:EOLhyphen"/>nelius Vermuden <hi>had not drayned through the waſt Lands of the ſaid Man<g ref="char:EOLhyphen"/>nor of Epworth;</hi> therefore they were not content with the liberty of cutting their drains through the grounds of <hi>Epworth</hi> Mannor. But the late Kings Commiſſioners agreeing with the Drainers, would without the conſent of the Commoners of the Mannor, take from the Com<g ref="char:EOLhyphen"/>moners above 7400 Acres out of 13400 Acres, under pretence that they had drayned their Commons for them; whereas in truth, as they are forced to confeſs to the Councel of State, they were forced to drain all the waſt grounds of the other 14 Mannors, through the Man<g ref="char:EOLhyphen"/>nor of <hi>Epworth,</hi> and cut not one drain for draining <hi>Epworth</hi> waſts, yet they would and did take by violence from the Commoners neer eight thouſand Acres, and called them ſeven thouſand four hundred, and ſet out for themſelves all the beſt ground, moſt part whereof before any drayning, was worth ſixteen ſhillings by the Acre yearly, to have been let, and they left to the Commoners only the worſt ground; and the drainers entred by force upon part of the ſaid 7400 Acres. Yet the Commoners uſed all lawful means to preſerve themſelves in their ancient poſſeſſions; and when the drainers had incloſed ſome of their Commonable grounds, they ſtill put in their cattle, and when they were imponded, they brought their lawful Writs of <hi>Re<g ref="char:EOLhyphen"/>plevin,</hi> that they might try whether they were Treſpaſſers or not. But the Barons of the <hi>Exchequer,</hi> by their Order of the 21 of <hi>Novemb.</hi> in the tenth year of the late King, being 1634. cauſed all ſuits of the Commoners upon Writs of <hi>Replevin,</hi> to be ſtaid; and the Sheriffs were commanded to forbear all proceedings upon any <hi>Replevins</hi> that ſhould be brought by any of the Commoners, whereby they were without hope of any relief by the law, to recover their right; and being ſo deſperate, they ſtrived to defend force with force, and ſo to keep their poſſeſſion: but the drainers under pretence of the late
+<pb n="3" facs="tcp:165976:2"/>
+               <!-- PDF PAGE 48 -->Kings authority, ſtill increaſed their force and violence againſt the Commoners, to take away from them the whole 7400 Acres; and the Commoners endevouring to defend their own poſſeſsion, were by the Tyranny and injuſtice of thoſe Times condemned as Rioters, and Forces brought againſt Them by the Sheriff, who killed ſome of them. and wounded others, in taking their poſſeſsion from them, and then the Drayners brought the Commoners into the Star-chamber, and In<g ref="char:EOLhyphen"/>dicted them in the then Kings Bench, and cauſed Fines of many Thou<g ref="char:EOLhyphen"/>ſand pounds to be ſet upon them as Rioters, and ſo vexed Them with Purſevants, That many of them durſt not adventure to lie in their owne houſes; but hid themſelvs in the fields to ſave them from Impriſonment.</p>
+            <p>And the Commoners being thus perſecuted, and under ſuch cruell vexation and Tyranny, ſome of Them were perſwaded to ſubmit Them<g ref="char:EOLhyphen"/>ſelves to ſuch Order in the Caſe, as the Kings Attorney General ſhould make, and to yeeld obedience to the Orders of the Star Chamber, and In<g ref="char:EOLhyphen"/>junctions of the Court of Exchequer; and were promiſed, That therupon they ſhould be free from the Fines and Iſſues returned againſt Them, and ſome of Them ſo ſubmitting in fear of their utter undoing, The Barons of the Exchequer to draw, or rather force the reſt to ſubmiſſion, Ordered upon the 13. of February, in the 11. year of the late Kings Reign, being 1635. That the Sheriffs of the County of <hi>Lincoln</hi> ſhould forbear to Levy any the ſaid Iſſues and Dammages upon the Lands and Tenements, Goods and Chattels of <hi>Ezech<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as Brown,</hi> and ſeverall others that had ſubmitted, thereby Terrifying every man that would not ſubmit, to have his Goods and Chattels diſtreined for Iſſues that farre exceeded their Eſtates: And thereupon the Drayners Bribed the Commoners Solicitor with Fourſcore pounds, and then he Told the Commoners that had not ſubmitted, That they could not any way pre<g ref="char:EOLhyphen"/>ſerve Themſelves from the Iſſues to be Levied upon Them, but by ſub<g ref="char:EOLhyphen"/>ſcribing to a Note, wherein they ſhould promiſe to ſubmit to ſuch Award or Order as the then Kings Attorney Generall ſhould make in the Caſe; and in feare of ruine, ſome few did then ſubſcribe to ſuch a Note, (not knowing, as many of Them have ſince anſwered upon their Oaths in the Exchequer unto what they did ſubſcribe) and then the Drayners procured an <hi>Order of the Exchequer of the Thirtyeth of</hi> May, <hi>in the Twelfth year of the late King, being</hi> 1636. <hi>That whatever end or Order the Kings Attorney Generall ſhould conceive or make in the Caſe, ſhould bee confirmed by the Decree of that Court.</hi>
+            </p>
+            <p>And the Drayners having as aforefaid by cruell uſage of the Com<g ref="char:EOLhyphen"/>moners: and Terrible Threats and Menaces procured <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me ſubſcriptions to a Note of ſubmiſſion to the Kings Attorney Generals Order in the Caſe, they increaſed the number of Names, by writing the ſame Mens name Twice. Thrice, and ſome Four times over, and by adding the Names of about Fourſcore that had no right to the Man or of <hi>Epworth,</hi> and ſo multiplyed the number of Subſcribers to 370. And then procu<g ref="char:EOLhyphen"/>red in the 12 Year of the late King a Decree in Exchequer, as if it had been by conſent of Parties, That the Drayners ſhould enjoy and bee
+<pb n="4" facs="tcp:165976:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 49 -->ſetled in the poſſeſſion of the ſaid 8000 acres, called by the name of 7400.</p>
+            <p>Now under colour of that Decree, the Drayners did enjoy the ſaid 7400 Acres about Ten years, untill 1643. and about 4000 Acres therof they enjoyed about Eight years more, until 1651. 'Tis true indeed, the Commoners being in Armes for the Parliament in 1643. did take advantage of the Time; and as they had been put out of poſſeſsion by force, and could not through the Tyranny of thoſe Times have any Legall Remedy; ſo by force they put Themſelves into poſſeſsion a<g ref="char:EOLhyphen"/>gain of above 3000 Acres: Yet in 1646. the Warr being over, the Commoners intended to recover their Right legally, or els legally to have been evicted; and therefore in ſeverall of their Names commen<g ref="char:EOLhyphen"/>ced their Sutes againſt the Drayners Tenants, on purpoſe to try the Ti<g ref="char:EOLhyphen"/>tle to thoſe Grounds; but the Drayners not daring to abide the Teſt of the fled law, in to the Exchequer-Chamber by a Bill of Equity, and procured Injunctions to ſtop the Commoners proceedings at Law to try their Title, and there on purpoſe to vex and weary out the Commoners by delays and expence, they kept Them in continuall trouble until this year 1651. ſome of the Drayners boaſting, That the Commoners ſhould never have a Tryall at Law.</p>
+            <p>And it muſt be confeſſed that ſome of the Inhabitants in the Iſle of Axholm, eſpecially of the poorer ſort, conceiving Themſelves highly injured by ſuch unſufferable delays and charges in that vexations Sute for pretended Equity, were impatient, and took their poſſeſsion of the whole by force of multitudes, as they loſt it by force, and in their rage the multitude did fooliſhly throw down many poor houſes, that the Drainers had built for their Tenants upon the incloſed ground (but that folly of the multitude none of the moſt diſcreet Commoners and tenants of the Iſle do juſtifie) yet the chief tenants of the Manor finding the ground to be left free from any of the drainers tenants, have quietly and peaceably entred upon their ancient Commons, and deſire no<g ref="char:EOLhyphen"/>thing but a legal trial, which the Honourable Barons of the <hi>Exche<g ref="char:EOLhyphen"/>quer</hi> have Ordered to permit, after five yeares waiting for it, and a Jury is come out of <hi>Lincolnſhire</hi> on purpoſe, and do attend the trial daily, though the Drainers endeavour by all means poſſible, either by favour, or pretence of riots committed by ſome of the Commoners, or power of the Atturney General, or any other ways to prevent the Trial; and the Commoners are, and ſhall be ready and willing to ſub<g ref="char:EOLhyphen"/>mit to the judgement of the law in the Caſe.</p>
+            <p>But the Drainers object againſt the Commoners, two things.</p>
+            <div type="objection">
+               <head>
+                  <hi>Firſt, That they have made an improvement by draining the Waſts and Commons of the Mannor of</hi> Epworth, <hi>and that it will be a great prejudice to the Commonwealth, to ſuffer the improvement to be loſt.</hi>
+               </head>
+               <p>To this the Commoners anſwer, That the Drainers by cutting through the Mannor of <hi>Epworth,</hi> to drain fourteen adjacent Mannors, have made ſome of the Commons of <hi>Epworth</hi> Mannor, fitter for corn then formerly, though upon conſidering the whole matter, that is, the
+<pb n="5" facs="tcp:165976:3"/>
+                  <!-- PDF PAGE 49 -->profitableneſs of that ground for graſs all the Summer (Cat<g ref="char:EOLhyphen"/>tel of all ſorts being commonly fed fat upon it for the Butch<g ref="char:EOLhyphen"/>er) and the profit that the Commoners had by the Naviga<g ref="char:EOLhyphen"/>tion upon the River <hi>Eidle,</hi> and the profit of fiſhing and fow<g ref="char:EOLhyphen"/>ling: It is very doubtfull upon the proofs, whether there hath been any improvement made of thoſe grounds to a greater profit then formerly; but the Commoners are of opinion, that conſidering the loſs of the Navigation upon the River <hi>Eidle,</hi> there is leſs profit to be made upon the grounds now by corn, then could have been made formerly by feeding cattel.</p>
+               <p>Yet the River <hi>Eidle</hi> being now deſtroyed, and the old Drains alſo ſtopped up, the Commoners conceive that the new Drains that they have cut through the Mannor of <hi>Ep<g ref="char:EOLhyphen"/>worth,</hi> for the draining <hi>Hatfield Chace</hi> and other Mannors, muſt be maintained to keep the Commons drie; and there<g ref="char:EOLhyphen"/>fore the Commoners are reſolved to contribute their ſhare to maintain the Drains; and for that purpoſe the Truſtees choſen by the Commoners, have contracted with ſome Free<g ref="char:EOLhyphen"/>holders of their own Mannor, to undertake for their own ſhare, to maintain the Drains and to drain ſome other of their Grounds for them, and have for that purpoſe allotted 2000 acres of ground to thoſe Free-holders that have under<g ref="char:EOLhyphen"/>taken the work (though they did offer the Drainers 4000 acres to do the ſame work for them, and to have been at peace with them, and they refuſed it) ſo that the Commo<g ref="char:EOLhyphen"/>ners are reſolved to keep up the improvement, if any be, to the beſt advantage of the Commonwealth.</p>
+            </div>
+            <div type="objection">
+               <head>2. <hi>Tis Objected that the Drainers have ſpent a vaſt ſum of money in draining the Commons of</hi> Epworth <hi>Mannor, and ſo ought in equity to enjoy ſome part of the Grounds for their ſatisfaction, though the Commoners have Common by grant, againſt which they could not have improved.</hi>
+               </head>
+               <p>To this the Commoners anſwer, that the Drainers never expended one penny upon draining the Commons of <hi>Ep<g ref="char:EOLhyphen"/>worth</hi> Mannor; the two Drains that they cut through them, being cut on purpoſe for carrying the water from 13
+<pb n="6" facs="tcp:165976:4"/>
+                  <!-- PDF PAGE 50 -->Mannors, beſides <hi>Hatfield</hi> Chace into the River of <hi>Trent,</hi> and their Charge not being augmented, either in cutting thoſe Drains deeper or wider for draining <hi>Epworth</hi> Man<g ref="char:EOLhyphen"/>nor; and the drainers confeſſed lately in their Petition to the Counſel of State, that they had expended 100000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> in draining other Mannors before they begun with <hi>Epworth,</hi> and that they had loſt all their coſt, if they had not cut through <hi>Epworth</hi> Mannor to vent their water into <hi>Trent;</hi> yet Mr. <hi>Attorney Generall</hi> ſtill tels the Barons that 150000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> is ſpent upon draining the Mannor of <hi>Epworth;</hi> as if all had been ſpent upon that; when in truth not one penny hath been ſpent upon that only, nor in relation at all to the drai<g ref="char:EOLhyphen"/>ning of that Mannor, though they cutting their drains for <hi>Hatfield</hi> Chace through <hi>Epworth</hi> Mannor, by accident 'tis made ſomewhat dryer, and the Navigable River ſpoyled, and the old drainer ſtopped up.</p>
+               <p>Secondly they anſwer, that in caſe they had cut al the Drains that are cut in the manner of Epworth, only for draining the waſts of that Man nor, yet they have received double, and al<g ref="char:EOLhyphen"/>moſt treble whatever thoſe drains could coſt them, they are a<g ref="char:EOLhyphen"/>bundantly reinburſed, all their coſt and charge about the mannor of Epworth, if all the charge of the works of drai<g ref="char:EOLhyphen"/>nage in it be ſet upon its own ſcore onely; by the Drainers own proof the land is made worth ſixteen ſhillings an Acre yearly; but reckon it at ten ſhillings an Acre, and they en<g ref="char:EOLhyphen"/>joyed for above ten years 7400. Acres by their own account, which amounts to 37000. pounds; and for ſeven years more they enjoyed 4000. Acres, which amounts to 14000. pounds, which in the whole amounts to 51000. pounds; and all the drains cut in the manner of Epworth, are not in length a<g ref="char:EOLhyphen"/>bove 8 miles, and tis not poſſible that it ſhould coſt 1000. <abbr>
+                     <hi>l.</hi>
+                  </abbr> a mile for cutting, and ſuppoſe the heads of the Sluces, and and mending of the Banks, of <hi>Bickers</hi> dike, coſt them 5000, pounds, (though this is all double if not treble rec<g ref="char:EOLhyphen"/>koning) yet ſurely they are ſufficiently reimburſed, both their money and their dammages, ſo that they cannot in equity claim any thing neither in truth could they if they had
+<pb n="7" facs="tcp:165976:4"/>
+                  <!-- PDF PAGE 50 -->not been reimburſed, becauſe they would adventure to try their skill upon other mens grounds, without their leave or conſent.</p>
+               <p>Now the Tenants of the mannor of <hi>Epworth,</hi> leave it to every indifferent man, to judge, whether they ought not to be permitted to try their title at law; notwithſtanding, any pretences of equity on the Drainers ſide, or any preten<g ref="char:EOLhyphen"/>ces of Riots by ſome of the multitude, in entring by force, and they appeal to every mans Conſcience, whether they have not had hard meaſure from firſt to laſt, theſe many years: onely Mr. <hi>Atturney</hi> General, hath one argument for the Drainers, which is not anſwered, that is, The Drai<g ref="char:EOLhyphen"/>ners will pay a fee Farm rent, to the State of 240. pounds <hi>per annum,</hi> for their ſhares in this Mannor, but this needs no other anſwer, then this. That the ſubſcibers of this or any other of the Free-holders of <hi>Epworth</hi> Mannor will give the State double the rent, if they will ſettle upon them or any of them 3000. pounds <hi>per annum,</hi> which the Drainers crave in this caſe, as a boon from the Barons of the <hi>Exchequer.</hi>
+               </p>
+            </div>
+            <closer>
+               <signed>Signed, by <hi>Mich. Monkton, Peter Clarke,</hi> and <hi>John Thorpe,</hi> three of the Truſtees for the tennants within the Man<g ref="char:EOLhyphen"/>nor of <hi>Epworth,</hi> on the behalf of all the ſaid Truſtees and Tennants; And alſo by me <hi>John Lilburne</hi> being a Free-holder there, and truſted by the reſt of the Free-holders to negotiate their ſaid cauſe, and by <hi>Da<g ref="char:EOLhyphen"/>niel Noddel,</hi> their Solliciter in the cauſe for almoſt ſix years.</signed>
+               <date>
+                  <hi>November</hi> 18. 1651.</date>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
